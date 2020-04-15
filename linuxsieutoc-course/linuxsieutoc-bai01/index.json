@@ -2,7 +2,7 @@
   "title": "Hướng dẫn gõ lệnh và trợ giúp lệnh",
   "description": "Hướng dẫn gõ lệnh và sử dụng lệnh trợ giúp man",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "2 phút",
   "authenticated": false,
   "details": {
     "steps": [
@@ -13,10 +13,6 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {
