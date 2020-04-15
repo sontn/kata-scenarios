@@ -57,6 +57,11 @@
       "course_id": "linuxsieutoc-bai10",
       "title": "Tìm kiếm file trên linux",
       "description": "Sử dụng lệnh find với các option name, size"
+    },
+    {
+      "course_id": "linuxsieutoc-bai11",
+      "title": "Tạo xóa người dùng trên Linux",
+      "description": "Khám phá cách Linux lưu thông tin user, password trên hệ thống"
     }
   ]
 }
