@@ -1,0 +1,62 @@
+{
+  "title": "Linux Siêu Tốc",
+  "description": "Học nhanh Linux Ubuntu bằng tốc độ ánh sáng",
+  "authenticated": false,
+  "courses": [
+    {
+      "course_id": "linuxsieutoc-bai00",
+      "title": "Giới thiệu hệ điều hành Linux",
+      "description": "Giới thiệu về hệ điều hành Linux và khóa học Linux Siêu Tốc"
+    },
+    {
+      "course_id": "linuxsieutoc-bai01",
+      "title": "Chạy lệnh và trợ giúp lệnh",
+      "description": "Hướng dẫn cách chạy lệnh Linux và nhận sự trợ giúp sử dụng lệnh"
+    },
+    {
+      "course_id": "linuxsieutoc-bai02",
+      "title": "Giới thiệu về Filesystem",
+      "description": "Cấu trúc của hệ thống file trên Linux"
+    },
+    {
+      "course_id": "linuxsieutoc-bai03",
+      "title": "Lệnh làm việc với file system",
+      "description": "Các lệnh thiết yếu pwd, cd, ls"
+    },
+    {
+      "course_id": "linuxsieutoc-bai04",
+      "title": "Đường dẫn tuyệt đối, tương đối trên filesystem",
+      "description": "Phân biệt được đường dẫn tuyệt đối, tương đối trên filesystem"
+    },
+    {
+      "course_id": "linuxsieutoc-bai05",
+      "title": "Một vài thủ thuật khi gõ lệnh trên Linux",
+      "description": "Các thủ thuật cơ bản hữu ích giúp tăng tốc khi gõ lệnh"
+    },
+    {
+      "course_id": "linuxsieutoc-bai06",
+      "title": "Tạo xóa thư mục, file",
+      "description": "Các lệnh cơ bản làm tạo xóa file và thư mục"
+    },
+    {
+      "course_id": "linuxsieutoc-bai07",
+      "title": "Copy, di chuyển, đổi tên file và thư mục",
+      "description": "Sử dụng lệnh cp, và mv"
+    },
+    {
+      "course_id": "linuxsieutoc-bai08",
+      "title": "Các kiểu đọc nội dung file",
+      "description": "Làm việc với các lệnh cat, more, less, head, tail"
+    },
+    {
+      "course_id": "linuxsieutoc-bai09",
+      "title": "Trình soạn thảo văn bản: vi",
+      "description": "Soạn thảo file trên Linux bằng vi"
+    },
+    {
+      "course_id": "linuxsieutoc-bai10",
+      "title": "Tìm kiếm file trên linux",
+      "description": "Sử dụng lệnh find với các option name, size"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Đường dẫn tuyệt đối, tương đối trên filesystem

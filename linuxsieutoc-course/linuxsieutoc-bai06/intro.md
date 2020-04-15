@@ -1,0 +1,1 @@
+Tạo xóa thư mục, file: `mkdir, touch, rm`

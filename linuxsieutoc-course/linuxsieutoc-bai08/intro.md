@@ -1,0 +1,1 @@
+Các kiểu đọc nội dung file
