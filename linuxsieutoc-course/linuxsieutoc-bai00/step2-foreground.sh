@@ -1,2 +1,2 @@
-sleep 3
+sleep 6
 figlet "LinuxSieuToc.Com"
