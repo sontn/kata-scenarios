@@ -16,7 +16,10 @@ Hãy sử dụng phím mũi tên `lên, xuống, Page Down, Page Up` để di ch
 Để di chuyển đến đầu văn bản, sử dụng phím `g`{{execute}}
 
 
-Để tìm một từ khóa, sử dụng phím `/` và gõ từ khóa, VD: `/version`
+Để tìm một từ khóa, sử dụng phím `/` và gõ từ khóa, VD: `/version` rồi nhấn phím `Enter`
+
+
+Để di chuyển các kết quả tìm kiếm từ trên xuống dưới, nhấn phím `n`{{execute}}, theo chiều từ dưới lên trên nhấn phím `N`{{execute}}
 
 
 Để thoát khỏi `man`, nhấn phím `q`{{execute}}

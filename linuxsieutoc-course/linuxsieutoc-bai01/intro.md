@@ -1,1 +1,1 @@
-Trong bài này các bạn sẽ học `gõ lệnh` và sử dụng lệnh trợ giúp `man`
+Trong bài này các bạn sẽ học **gõ lệnh** và sử dụng lệnh trợ giúp **man**
