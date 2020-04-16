@@ -8,3 +8,7 @@ Linux có hơn 100 phân nhánh hệ điều hành, trong đó ở Việt Nam n�
 
 
 Đa phần các công ty phần mềm hiện nay sử dụng máy chủ Server trên nền tảng hệ điều hành Linux, ví dụ: **Google, Amazon, Microsoft...**
+
+
+Xem thêm Video ở đây nhé các bạn:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLtiwJha37E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
