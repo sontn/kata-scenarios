@@ -1,6 +1,6 @@
 Filesystem là một tổ chức quản lý file của hệ điều hành, là nơi để lưu trữ dữ liệu và chương trình chạy. Linux sử dụng cấu trúc hình cây để quản lý tổ chức file, giống như hình ở dưới
 
-![Linux Filesystem](/linuxsieutoc-course/linuxsieutoc-bai02/assets/filesystem1.gif)
+![Linux Filesystem](https://katacoda.com/sontran/courses/linuxsieutoc-course/linuxsieutoc-bai02/assets/filesystem1.gif)
 
 
 Thưc mục gốc được ký hiệu là **/**, là thư mục chứa tất cả thư mục và file còn lại trên Linux.
