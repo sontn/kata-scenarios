@@ -2,7 +2,7 @@
   "title": "Lệnh làm việc với file system",
   "description": "Lệnh pwd, cd, ls",
   "difficulty": "Beginner",
-  "time": "2",
+  "time": "3 phút",
   "details": {
     "steps": [
       {

@@ -1,0 +1,3 @@
+**Các bạn có thể tham khảo thêm Video ở đây nhé:**
+`Lưu ý là trong Video này là Hệ điều hành CentOS, chứ không phải là Ubuntu nên cấu trúc thư mục hơi khác nhau một tí, nhưng logic thì vẫn như vậy nhé các bạn`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xTFAZXos_Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
