@@ -3,13 +3,13 @@ vi là trình soạn thảo văn bản rất nổi tiếng trên Linux. vi thư�
 Giờ các bạn thử làm việc với vi nhé. Đầu tiên các bạn gõ `vi hello.txt`{{execute}}
 
 
-Để vào chế độ soạn thảo văn bản, các bạn gõ phím `i`{{execute}}
+Để vào chế độ soạn thảo văn bản, các bạn gõ phím `i`
 
 
-Thêm một vài đoạn nội dung, ví dụ **Hi LinuxSieuToc.com**
+Thêm một vài đoạn nội dung, ví dụ `Hi LinuxSieuToc.com`
 
 
-Để lưu nội dung file, các bạn nhấn **ESC**. Sau đó các bạn gõ `wq!`{{execute}} để lưu và thoát khỏi vi.
+Để lưu nội dung file, các bạn nhấn `ESC`. Sau đó các bạn gõ `:wq!` để lưu và thoát khỏi vi.
 
 
 Giờ các bạn kiểm tra lại nội dung vừa soạn thảo với vi, hãy gõ `cat hello.txt`{{execute}}
