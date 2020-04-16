@@ -11,7 +11,12 @@ Các bạn hãy thử ví dụ sau đây để hiểu hơn về đường dẫn 
 Các bạn gõ lệnh `cd /etc`{{execute}}, câu lệnh này luôn thực thi được. Đây là đường dẫn tuyệt đối
 
 
-Giờ tiếp tục, các bạn gõ lệnh `cd `{{execute}}, sau đó gõ lệnh tiếp `cd etc`{{execute}}, sẽ có thông báo lỗi như sau `-bash: cd: etc: No such file or directory`. Lỗi này tại sao vậy các bạn? Giờ các bạn gõ lệnh `pwd`{{execute}} và `ls`{{execute}} để tìm câu trả lời. Câu trả lời là trong thư mục **/root** không có thư mục **etc**
+Giờ tiếp tục, các bạn gõ lệnh `cd `{{execute}}, sau đó gõ lệnh tiếp `cd etc`{{execute}}, sẽ có thông báo lỗi như sau 
+
+`-bash: cd: etc: No such file or directory`
 
 
-Giờ các bạn đã phân biệt được lệnh **cd /etc** và **cd etc** rồi đấy!
+Lỗi này tại sao vậy các bạn? Giờ các bạn gõ lệnh `pwd`{{execute}} và `ls`{{execute}} để tìm câu trả lời. Câu trả lời là trong thư mục **/root** không có thư mục **etc**
+
+
+Giờ các bạn đã phân biệt được lệnh đường dẫn tuyệt đối và tương đối bằng câu lệnh **cd /etc** và **cd etc** rồi đấy!

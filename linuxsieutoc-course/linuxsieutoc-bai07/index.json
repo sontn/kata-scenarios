@@ -2,7 +2,7 @@
   "title": "Copy, di chuyển, đổi tên file và thư mục",
   "description": "Copy, di chuyển, đổi tên file và thư mục",
   "difficulty": "Beginner",
-  "time": "2",
+  "time": "3 phút",
   "details": {
     "steps": [
       {
@@ -12,10 +12,6 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {
